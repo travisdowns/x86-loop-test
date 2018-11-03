@@ -1,6 +1,4 @@
-Tests for loop performance, based on the question:
-
-http://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of
+Tests for loop performance, based on [this stackoverflow question](http://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of) about how loop performance varies with the uop count.
 
 To build:
 
